@@ -1,4 +1,8 @@
 Pune
 Mumbai
 Kolhapur
-Satara
+Satara 
+Bucharest
+London
+New York 
+
